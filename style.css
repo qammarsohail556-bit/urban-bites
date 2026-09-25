@@ -591,7 +591,9 @@ section {
         gap: 0;
 
         background: #fff;
-        padding: 12px 0;
+
+        padding: 13px 0;
+
 
         border-radius: 12px;
         box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
